@@ -1,0 +1,66 @@
+[
+    {
+      
+      "id": 1,
+      "title": "The Last of Us Part II",
+      "descripcion": "Cuando un evento violento perturba esa paz, Ellie se embarca en un viaje implacable para llevar a cabo justicia y encontrar una solución. ... Esta nueva sinopsis puede que no revele completamente el origen críptico de la nueva sed de sangre de Ellie, pero confirma que su venganza viene después de un “evento violento.",
+      "imagen": "./images/json/last.jpg",
+      "precio": 2590
+    },
+    {
+        "id": 2,
+        "imagen": "./images/json/ghost.jpg",
+        "title": "Ghost of Tsushima",      
+        "descripcion": "Afila tu katana y tensa el arco en tu rol como Jin, un maltratado samurái que permanece en la isla con la esperanza de acabar con el despiadado khan y su salvaje imperio. Entre los bosques de bambú, castillos ornamentados y paisajes espectaculares, solo queda un alma valerosa capaz de luchar contra toda posibilidad.",
+        "precio": 2290
+    },
+    {
+        "id": 3,
+        "imagen": "./images/json/doom.png",
+        "title": "Doom Eternal",     
+        "descripcion": "Los jugadores toman el papel de Doom Slayer, un antiguo guerrero que lucha contra las fuerzas demoníacas del Infierno desde una perspectiva en primera persona. ... Armamentos como misiles, lanzagranadas y lanzallamas también se pueden unir a la armadura de Doom Slayer. También se introducen nuevas mecánicas de movimiento.",
+        "precio": 1600
+    },
+    {
+      "id": 4,
+      "imagen": "./images/json/nfs.jpg",
+      "title": "Need For Speed Heat",      
+      "descripcion": "Siente la velocidad como forajido y como policía en los coches de mayor rendimiento del mundo. Es hora de retomar la persecución. Need for Speed es una franquicia de videojuegos de carreras publicada por Electronic Arts y actualmente desarrollada por Criterion Games.",
+      "precio": 1990
+  },
+  {
+    "id": 5,
+    "imagen": "./images/json/lossims4.png",
+    "title": "Los Sims 4",      
+    "descripcion": "¡Da rienda suelta a tu imaginación y crea un mundo único de Sims a tu imagen y semejanza! Explora y personaliza todos los detalles, desde tus Sims a sus hogares y mucho más. Elige el aspecto, la personalidad y la ropa de tus Sims y decide cómo van a vivir día a día. Diseña y construye casas increíbles para cada familia y luego decóralas con tus muebles y elementos decorativos favoritos.",
+    "precio": 350
+  },
+  {
+    "id": 6,
+    "imagen": "./images/json/battlefieldV.jpg",
+    "title": "Battlefield v",      
+    "descripcion": "Vive el mayor conflicto de la humanidad con Battlefield™ V gracias a este regreso de la saga a sus orígenes con una representación inédita de la 2ª Guerra Mundial. Ve a la guerra con tu patrulla en un multijugador sin cuartel en modos como el inmenso Grandes operaciones y el cooperativo Armas combinadas, o experimenta el drama humano vivido durante esta época en las Historias de guerra de la campaña.",
+    "precio": 1500
+  },
+  {
+    "id": 7,
+    "imagen": "./images/json/deadspace.jfif",
+    "title": "Dead Space",      
+    "descripcion": "Eres Isaac Clarke, ingeniero de la nave USG Ishimura. No eres un guerrero. Tampoco un soldado. Sin embargo, eres la última línea de defensa entre la tripulación que todavía sobrevive y los muertos vivientes. Los no muertos se han convertido en necromorfos: horribles híbridos de extraterrestres y zombis que no mueren mediante los métodos tradicionales.",
+    "precio": 600
+  },
+  {
+    "id": 8,
+    "imagen": "./images/json/AssOdysy.jfif",
+    "title": "Assassins Creed Odyssey",      
+    "descripcion": "Recorre frondosos bosques, islas volcánicas y ciudades bulliciosas en un viaje de exploración y encuentros en un mundo en guerra forjado por Dioses y hombres. Tus decisiones influirán en el devenir de tu odisea. Tu juego puede tener distintos finales gracias al nuevo sistema de diálogos y a las decisiones que tomes. ",
+    "precio": 2700
+  },
+  {
+    "id": 9,
+    "imagen": "./images/json/newdown.jpg",
+    "title": "Far Cry New Dawn",      
+    "descripcion": "Únete a los otros supervivientes y lidera la lucha contra la nueva y peligrosa amenaza de los Salteadores y sus despiadadas cabecillas: las gemelas. Impide que se hagan con el control de los últimos recursos. Álzate en armas en solitario o con un amigo en el modo cooperativo para dos jugadores y descubre este mundo impredecible y transformado. LUCHA POR SOBREVIVIR EN UN MUNDO POSAPOCALÍPTICO",
+    "precio": 3500
+  }
+  ]
